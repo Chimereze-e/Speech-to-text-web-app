@@ -19,5 +19,5 @@ A simple browser-based Speech-to-Text (STT) application built using JavaScript a
 
 ## Screenshot
 
-![Screenshot 2025-05-28 at 20 59 55](https://github.com/user-attachments/assets/8f2d5360-3dbe-45ea-a119-a83a6b422ed1)
+![Project-shot](https://github.com/user-attachments/assets/3b6bafc3-e3e2-42ad-99db-b477571184a4)
 
