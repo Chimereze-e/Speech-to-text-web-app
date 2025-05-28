@@ -1,6 +1,3 @@
-# Speech-to-text-web-app
-A simple browser-based Speech-to-Text web application built with JavaScript using the Web Speech API. Users can start and stop voice recognition with button clicks, and the recognized text is displayed live in a textarea. Ideal for note-taking, dictation, or accessibility features. Works best in Chrome.
-
 # Speech-to-Text Web App
 
 A simple browser-based Speech-to-Text (STT) application built using JavaScript and the Web Speech API. This app lets users convert spoken words into text in real-time using their microphone.
