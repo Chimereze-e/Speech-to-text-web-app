@@ -4,12 +4,11 @@ A simple browser-based Speech-to-Text (STT) application built using JavaScript a
 
 ## Features
 
-- 🎙️ Start and stop voice recognition with a button
-- ✍️ Real-time transcription displayed in a textarea
-- 🗣️ Supports continuous and interim results
-- 🌐 English (US) language support
-- 🧠 Simple and clean UI
-- 🖥️ Works best on Google Chrome
+-  Start and stop voice recognition with a button
+-  Real-time transcription displayed in a textarea
+-  English (US) language support
+-  Simple and clean UI
+-  Works best on Google Chrome
 
 ## 🛠️ Tech Stack
 
